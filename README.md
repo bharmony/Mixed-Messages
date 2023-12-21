@@ -1,1 +1,1 @@
-This is a message generator pprogram that produces a message (answer) at random.
+This is a message generator program that produces a message (answer) at random.
